@@ -1,0 +1,4 @@
+task: "newtask"
+class: !function task.NEWTASK
+# dataset_path: ./data/my_dataset.jsonl  # Default path (override with --task_args)
+# output_type: multiple_choice
