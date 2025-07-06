@@ -11327,9 +11327,12 @@ lm_eval/tasks/mutual/multual_plus.yaml
 lm_eval/tasks/mutual/mutual.yaml
 lm_eval/tasks/mutual/utils.py
 lm_eval/tasks/newtask/generate_styled_reports.py
+lm_eval/tasks/newtask/newtask.yaml
 lm_eval/tasks/newtask/pandas.py
 lm_eval/tasks/newtask/questions_benchmark1.jsonl
 lm_eval/tasks/newtask/task.py
+lm_eval/tasks/newtask/test.py
+lm_eval/tasks/newtask/__pycache__/task.cpython-39.pyc
 lm_eval/tasks/noreval/README.md
 lm_eval/tasks/noreval/noreval.jpg
 lm_eval/tasks/noreval/ask_gec/README.md
