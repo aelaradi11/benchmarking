@@ -1,0 +1,100 @@
+2025-07-07 11:27:22,599 - INFO - Loaded 881 questions from final_bloom_questions_cleaned.jsonl
+2025-07-07 11:27:22,604 - INFO - Loaded 6236 verses for validation
+2025-07-07 11:27:22,604 - INFO - Starting LLM Benchmark for Quranic Similar Verse Identification (Local Models)
+2025-07-07 11:27:22,604 - INFO - Models to test: qwen
+2025-07-07 11:27:22,604 - INFO - Questions limit: All
+2025-07-07 11:27:22,627 - INFO - Using device: mps
+2025-07-07 11:27:22,627 - INFO - Using Apple Silicon MPS backend
+2025-07-07 11:27:22,627 - INFO - 
+============================================================
+2025-07-07 11:27:22,627 - INFO - Starting evaluation for QWEN
+2025-07-07 11:27:22,627 - INFO - ============================================================
+2025-07-07 11:27:22,627 - INFO - Starting benchmark for QWEN
+2025-07-07 11:27:22,627 - INFO - Using device: mps
+2025-07-07 11:27:22,628 - INFO - Using Apple Silicon MPS backend
+2025-07-07 11:27:22,628 - INFO - Processing 881 questions for qwen (starting from 1)
+2025-07-07 11:27:22,628 - INFO - Processing question 1/881 (ID: 0) for qwen
+2025-07-07 11:27:22,628 - INFO -   Ground truth verses: ['3:23', '4:51', '4:44']
+2025-07-07 11:27:22,628 - INFO - Loading model: Qwen/Qwen2.5-1.5B-Instruct
+2025-07-07 11:27:22,628 - INFO - Device: mps, Dtype: torch.float16, Quantization: False
+2025-07-07 11:27:33,374 - INFO - Successfully loaded Qwen/Qwen2.5-1.5B-Instruct
+2025-07-07 11:33:08,139 - INFO - Extracted JSON from code block: 103 characters
+2025-07-07 11:33:08,152 - INFO - Parsed JSON response: 0 verses sorted by relevance
+2025-07-07 11:33:08,152 - INFO - Successfully parsed 0 verses from JSON with relevance scores
+2025-07-07 11:33:08,154 - INFO - Normalized predicted verses: []
+2025-07-07 11:33:08,154 - INFO - Normalized ground truth verses: ['3:23', '4:44', '4:51']
+2025-07-07 11:33:08,154 - INFO -   Response: 103 chars, Found 0 verses
+2025-07-07 11:33:08,154 - INFO -   Similarity metrics - F1: 0.000, Precision: 0.000, Recall: 0.000
+2025-07-07 11:33:08,154 - INFO -   Matched verses: []
+2025-07-07 11:33:09,160 - INFO - Processing question 2/881 (ID: 1) for qwen
+2025-07-07 11:33:09,160 - INFO -   Ground truth verses: ['3:23', '4:51', '4:44']
+2025-07-07 11:33:09,161 - INFO - Using cached model: Qwen/Qwen2.5-1.5B-Instruct
+2025-07-07 11:35:21,383 - INFO - Extracted JSON from code block: 321 characters
+2025-07-07 11:35:21,389 - INFO - Parsed JSON response: 2 verses sorted by relevance
+2025-07-07 11:35:21,391 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:35:21,391 - WARNING - Invalid colon format: '[Al-A'raf:113]' -> 'Al-A'raf:113'
+2025-07-07 11:35:21,392 - INFO - Successfully parsed 2 verses from JSON with relevance scores
+2025-07-07 11:35:21,392 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:35:21,392 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:35:21,392 - WARNING - Invalid colon format: '[Al-A'raf:113]' -> 'Al-A'raf:113'
+2025-07-07 11:35:21,392 - WARNING - Invalid colon format: '[Al-A'raf:113]' -> 'Al-A'raf:113'
+2025-07-07 11:35:21,393 - INFO - Normalized predicted verses: ['2:255', '7:113']
+2025-07-07 11:35:21,393 - INFO - Normalized ground truth verses: ['3:23', '4:44', '4:51']
+2025-07-07 11:35:21,394 - INFO -   Response: 321 chars, Found 2 verses
+2025-07-07 11:35:21,394 - INFO -   Similarity metrics - F1: 0.000, Precision: 0.000, Recall: 0.000
+2025-07-07 11:35:21,394 - INFO -   Matched verses: []
+2025-07-07 11:35:22,400 - INFO - Processing question 3/881 (ID: 2) for qwen
+2025-07-07 11:35:22,400 - INFO -   Ground truth verses: ['3:23', '4:51', '4:44']
+2025-07-07 11:35:22,400 - INFO - Using cached model: Qwen/Qwen2.5-1.5B-Instruct
+2025-07-07 11:37:08,612 - INFO - Extracted JSON from code block: 762 characters
+2025-07-07 11:37:08,614 - INFO - Parsed JSON response: 5 verses sorted by relevance
+2025-07-07 11:37:08,614 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:37:08,614 - WARNING - Invalid colon format: '[Al-An'am:84]' -> 'Al-An'am:84'
+2025-07-07 11:37:08,615 - WARNING - Invalid colon format: '[At-Tawbah:106]' -> 'At-Tawbah:106'
+2025-07-07 11:37:08,615 - WARNING - Invalid colon format: '[Al-Ma'idah:10]' -> 'Al-Ma'idah:10'
+2025-07-07 11:37:08,615 - WARNING - Invalid colon format: '[Al-Hujurat:11]' -> 'Al-Hujurat:11'
+2025-07-07 11:37:08,616 - INFO - Successfully parsed 5 verses from JSON with relevance scores
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-Baqarah:255]' -> 'Al-Baqarah:255'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-An'am:84]' -> 'Al-An'am:84'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-An'am:84]' -> 'Al-An'am:84'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[At-Tawbah:106]' -> 'At-Tawbah:106'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[At-Tawbah:106]' -> 'At-Tawbah:106'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-Ma'idah:10]' -> 'Al-Ma'idah:10'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-Ma'idah:10]' -> 'Al-Ma'idah:10'
+2025-07-07 11:37:08,616 - WARNING - Invalid colon format: '[Al-Hujurat:11]' -> 'Al-Hujurat:11'
+2025-07-07 11:37:08,617 - WARNING - Invalid colon format: '[Al-Hujurat:11]' -> 'Al-Hujurat:11'
+2025-07-07 11:37:08,624 - INFO - Normalized predicted verses: ['2:255', '49:11', '5:10', '6:84', '9:106']
+2025-07-07 11:37:08,624 - INFO - Normalized ground truth verses: ['3:23', '4:44', '4:51']
+2025-07-07 11:37:08,624 - INFO -   Response: 762 chars, Found 5 verses
+2025-07-07 11:37:08,624 - INFO -   Similarity metrics - F1: 0.000, Precision: 0.000, Recall: 0.000
+2025-07-07 11:37:08,624 - INFO -   Matched verses: []
+2025-07-07 11:37:09,629 - INFO - Processing question 4/881 (ID: 3) for qwen
+2025-07-07 11:37:09,630 - INFO -   Ground truth verses: ['3:23', '4:51', '4:44']
+2025-07-07 11:37:09,630 - INFO - Using cached model: Qwen/Qwen2.5-1.5B-Instruct
+2025-07-07 11:39:00,433 - INFO - Extracted JSON from code block: 749 characters
+2025-07-07 11:39:00,438 - INFO - Parsed JSON response: 5 verses sorted by relevance
+2025-07-07 11:39:00,438 - WARNING - Invalid colon format: '[Al-An'am:82]' -> 'Al-An'am:82'
+2025-07-07 11:39:00,438 - WARNING - Invalid colon format: '[Al-An'am:83]' -> 'Al-An'am:83'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:86]' -> 'Al-An'am:86'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:87]' -> 'Al-An'am:87'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:88]' -> 'Al-An'am:88'
+2025-07-07 11:39:00,440 - INFO - Successfully parsed 5 verses from JSON with relevance scores
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:82]' -> 'Al-An'am:82'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:82]' -> 'Al-An'am:82'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:83]' -> 'Al-An'am:83'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:83]' -> 'Al-An'am:83'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:86]' -> 'Al-An'am:86'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:86]' -> 'Al-An'am:86'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:87]' -> 'Al-An'am:87'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:87]' -> 'Al-An'am:87'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:88]' -> 'Al-An'am:88'
+2025-07-07 11:39:00,440 - WARNING - Invalid colon format: '[Al-An'am:88]' -> 'Al-An'am:88'
+2025-07-07 11:39:00,440 - INFO - Normalized predicted verses: ['4:82', '4:83', '4:86', '4:87', '4:88']
+2025-07-07 11:39:00,440 - INFO - Normalized ground truth verses: ['3:23', '4:44', '4:51']
+2025-07-07 11:39:00,441 - INFO -   Response: 749 chars, Found 5 verses
+2025-07-07 11:39:00,441 - INFO -   Similarity metrics - F1: 0.000, Precision: 0.000, Recall: 0.000
+2025-07-07 11:39:00,441 - INFO -   Matched verses: []
+2025-07-07 11:39:01,443 - INFO - Processing question 5/881 (ID: 4) for qwen
+2025-07-07 11:39:01,443 - INFO -   Ground truth verses: ['3:23', '4:51', '4:44']
+2025-07-07 11:39:01,444 - INFO - Using cached model: Qwen/Qwen2.5-1.5B-Instruct
