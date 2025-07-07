@@ -1,0 +1,172 @@
+{
+  "model": "fanar",
+  "questions_completed": 5,
+  "timestamp": "2025-07-07T10:12:09.121909",
+  "results": [
+    {
+      "question_id": 0,
+      "query": "What ayah discusses those who were given a portion of the Scripture and choose error over guidance?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 51.01243042945862,
+      "timestamp": "2025-07-07T10:12:04.188531"
+    },
+    {
+      "question_id": 1,
+      "query": "What ayah illustrates the behavior of those who possess a portion of the Scripture yet choose to pursue error instead?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.42015743255615234,
+      "timestamp": "2025-07-07T10:12:05.610118"
+    },
+    {
+      "question_id": 2,
+      "query": "What ayah can help someone understand the motivations behind why certain individuals choose to mislead others despite having received divine guidance?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1673891544342041,
+      "timestamp": "2025-07-07T10:12:06.778977"
+    },
+    {
+      "question_id": 3,
+      "query": "What ayah analyzes the motivations behind those who distort the truth and seek to mislead others?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.17049217224121094,
+      "timestamp": "2025-07-07T10:12:07.950851"
+    },
+    {
+      "question_id": 4,
+      "query": "What ayah serves as a critical reflection on the behavior of those who possess knowledge yet choose to mislead others?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.16961026191711426,
+      "timestamp": "2025-07-07T10:12:09.121888"
+    }
+  ]
+}

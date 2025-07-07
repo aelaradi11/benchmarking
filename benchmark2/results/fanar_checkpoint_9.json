@@ -1,0 +1,317 @@
+{
+  "model": "fanar",
+  "questions_completed": 10,
+  "timestamp": "2025-07-07T10:12:15.144409",
+  "results": [
+    {
+      "question_id": 0,
+      "query": "What ayah discusses those who were given a portion of the Scripture and choose error over guidance?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 51.01243042945862,
+      "timestamp": "2025-07-07T10:12:04.188531"
+    },
+    {
+      "question_id": 1,
+      "query": "What ayah illustrates the behavior of those who possess a portion of the Scripture yet choose to pursue error instead?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.42015743255615234,
+      "timestamp": "2025-07-07T10:12:05.610118"
+    },
+    {
+      "question_id": 2,
+      "query": "What ayah can help someone understand the motivations behind why certain individuals choose to mislead others despite having received divine guidance?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1673891544342041,
+      "timestamp": "2025-07-07T10:12:06.778977"
+    },
+    {
+      "question_id": 3,
+      "query": "What ayah analyzes the motivations behind those who distort the truth and seek to mislead others?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.17049217224121094,
+      "timestamp": "2025-07-07T10:12:07.950851"
+    },
+    {
+      "question_id": 4,
+      "query": "What ayah serves as a critical reflection on the behavior of those who possess knowledge yet choose to mislead others?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.16961026191711426,
+      "timestamp": "2025-07-07T10:12:09.121888"
+    },
+    {
+      "question_id": 5,
+      "query": "What ayah discusses the hardening of hearts and the influence of Satan during the time of punishment?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1644425392150879,
+      "timestamp": "2025-07-07T10:12:10.291107"
+    },
+    {
+      "question_id": 6,
+      "query": "What ayah reflects on the consequences of not humbling oneself in the face of divine punishment?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.16728949546813965,
+      "timestamp": "2025-07-07T10:12:11.459819"
+    },
+    {
+      "question_id": 7,
+      "query": "What ayah illustrates the consequences of hardening one's heart in the face of divine punishment?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.33658385276794434,
+      "timestamp": "2025-07-07T10:12:12.797844"
+    },
+    {
+      "question_id": 8,
+      "query": "What ayah analyzes the reasons behind the hardening of hearts in response to divine punishment?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1708376407623291,
+      "timestamp": "2025-07-07T10:12:13.970158"
+    },
+    {
+      "question_id": 9,
+      "query": "What ayah critically examines the reasons behind the lack of humility in the face of divine punishment?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.17280149459838867,
+      "timestamp": "2025-07-07T10:12:15.144392"
+    }
+  ]
+}

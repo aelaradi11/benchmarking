@@ -1,0 +1,363 @@
+{
+  "model": "qwen",
+  "questions_completed": 5,
+  "timestamp": "2025-07-07T08:54:38.781397",
+  "results": [
+    {
+      "question_id": 0,
+      "query": "What ayah discusses those who were given a portion of the Scripture and choose error over guidance?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:44",
+          "4:51"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "{\n    \"surah_name_format\": \"Al-Baqarah\",\n    \"surah_number_format\": \"2:255\",\n    \"relevance_score\": 8\n}",
+      "response_time": 36.47226405143738,
+      "timestamp": "2025-07-07T08:53:36.945879"
+    },
+    {
+      "question_id": 1,
+      "query": "What ayah illustrates the behavior of those who possess a portion of the Scripture yet choose to pursue error instead?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [
+        "[Al-Baqarah:255]",
+        "[Al-A'raf:113]",
+        "[Yunus:10]",
+        "[Sad:11]",
+        "[Fussilat:56]"
+      ],
+      "predicted_verses_number_format": [
+        "[2:255]",
+        "[7:113]",
+        "[10:10]",
+        "[38:11]",
+        "[41:56]"
+      ],
+      "detailed_verse_predictions": [
+        {
+          "rank": 1,
+          "surah_name_format": "[Al-Baqarah:255]",
+          "surah_number_format": "[2:255]",
+          "relevance_score": 10,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 2,
+          "surah_name_format": "[Al-A'raf:113]",
+          "surah_number_format": "[7:113]",
+          "relevance_score": 9,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 3,
+          "surah_name_format": "[Yunus:10]",
+          "surah_number_format": "[10:10]",
+          "relevance_score": 8,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 4,
+          "surah_name_format": "[Sad:11]",
+          "surah_number_format": "[38:11]",
+          "relevance_score": 7,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 5,
+          "surah_name_format": "[Fussilat:56]",
+          "surah_number_format": "[41:56]",
+          "relevance_score": 6,
+          "is_valid_name": false,
+          "is_valid_number": false,
+          "source": "json_parsed"
+        }
+      ],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 10,
+        "valid_predictions": 4,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:44",
+          "4:51"
+        ],
+        "extra_verses": [
+          "10:10",
+          "38:11",
+          "7:113",
+          "2:255"
+        ]
+      },
+      "llm_response": "{\n    \"verses\": [\n        {\n            \"surah_name_format\": \"Al-Baqarah:255\",\n            \"surah_number_format\": \"2:255\",\n            \"relevance_score\": 10\n        },\n        {\n            \"surah_name_format\": \"Al-A'raf:113\",\n            \"surah_number_format\": \"7:113\",\n            \"relevance_score\": 9\n        },\n        {\n            \"surah_name_format\": \"Yunus:10\",\n            \"surah_number_format\": \"10:10\",\n            \"relevance_score\": 8\n        },\n        {\n            \"surah_name_format\": \"Sad:11\",\n            \"surah_number_format\": \"38:11\",\n            \"relevance_score\": 7\n        },\n        {\n            \"surah_name_format\": \"Fussilat:56\",\n            \"surah_number_format\": \"41:56\",\n            \"relevance_score\": 6\n        }\n    ]\n}",
+      "response_time": 14.441486120223999,
+      "timestamp": "2025-07-07T08:53:52.389466"
+    },
+    {
+      "question_id": 2,
+      "query": "What ayah can help someone understand the motivations behind why certain individuals choose to mislead others despite having received divine guidance?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [
+        "[Al-Baqarah:255]",
+        "[Al-An'am:84]",
+        "[Al-Ma'idah:10]",
+        "[At-Tawbah:101]",
+        "[Al-Hujurat:11]"
+      ],
+      "predicted_verses_number_format": [
+        "[2:255]",
+        "[6:84]",
+        "[5:10]",
+        "[9:101]",
+        "[49:11]"
+      ],
+      "detailed_verse_predictions": [
+        {
+          "rank": 1,
+          "surah_name_format": "[Al-Baqarah:255]",
+          "surah_number_format": "[2:255]",
+          "relevance_score": 10,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 2,
+          "surah_name_format": "[Al-An'am:84]",
+          "surah_number_format": "[6:84]",
+          "relevance_score": 9,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 3,
+          "surah_name_format": "[Al-Ma'idah:10]",
+          "surah_number_format": "[5:10]",
+          "relevance_score": 8,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 4,
+          "surah_name_format": "[At-Tawbah:101]",
+          "surah_number_format": "[9:101]",
+          "relevance_score": 7,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 5,
+          "surah_name_format": "[Al-Hujurat:11]",
+          "surah_number_format": "[49:11]",
+          "relevance_score": 6,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        }
+      ],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 10,
+        "valid_predictions": 5,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:44",
+          "4:51"
+        ],
+        "extra_verses": [
+          "49:11",
+          "9:101",
+          "2:255",
+          "5:10",
+          "6:84"
+        ]
+      },
+      "llm_response": "{\n    \"verses\": [\n        {\n            \"surah_name_format\": \"Al-Baqarah:255\",\n            \"surah_number_format\": \"2:255\",\n            \"relevance_score\": 10\n        },\n        {\n            \"surah_name_format\": \"Al-An'am:84\",\n            \"surah_number_format\": \"6:84\",\n            \"relevance_score\": 9\n        },\n        {\n            \"surah_name_format\": \"Al-Ma'idah:10\",\n            \"surah_number_format\": \"5:10\",\n            \"relevance_score\": 8\n        },\n        {\n            \"surah_name_format\": \"At-Tawbah:101\",\n            \"surah_number_format\": \"9:101\",\n            \"relevance_score\": 7\n        },\n        {\n            \"surah_name_format\": \"Al-Hujurat:11\",\n            \"surah_number_format\": \"49:11\",\n            \"relevance_score\": 6\n        }\n    ]\n}",
+      "response_time": 14.597961664199829,
+      "timestamp": "2025-07-07T08:54:07.989601"
+    },
+    {
+      "question_id": 3,
+      "query": "What ayah analyzes the motivations behind those who distort the truth and seek to mislead others?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [
+        "[Al-Baqarah:255]",
+        "[Al-An'am:89]",
+        "[Al-Ma'idah:16]",
+        "[Al-Hujurat:11]",
+        "[Al-Tawbah:10]"
+      ],
+      "predicted_verses_number_format": [
+        "[2:255]",
+        "[4:89]",
+        "[5:16]",
+        "[49:11]",
+        "[9:10]"
+      ],
+      "detailed_verse_predictions": [
+        {
+          "rank": 1,
+          "surah_name_format": "[Al-Baqarah:255]",
+          "surah_number_format": "[2:255]",
+          "relevance_score": 10,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 2,
+          "surah_name_format": "[Al-An'am:89]",
+          "surah_number_format": "[4:89]",
+          "relevance_score": 9,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 3,
+          "surah_name_format": "[Al-Ma'idah:16]",
+          "surah_number_format": "[5:16]",
+          "relevance_score": 8,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 4,
+          "surah_name_format": "[Al-Hujurat:11]",
+          "surah_number_format": "[49:11]",
+          "relevance_score": 7,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        },
+        {
+          "rank": 5,
+          "surah_name_format": "[Al-Tawbah:10]",
+          "surah_number_format": "[9:10]",
+          "relevance_score": 6,
+          "is_valid_name": false,
+          "is_valid_number": true,
+          "source": "json_parsed"
+        }
+      ],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 10,
+        "valid_predictions": 5,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:44",
+          "4:51"
+        ],
+        "extra_verses": [
+          "49:11",
+          "4:89",
+          "9:10",
+          "2:255",
+          "5:16"
+        ]
+      },
+      "llm_response": "{\n    \"verses\": [\n        {\n            \"surah_name_format\": \"Al-Baqarah:255\",\n            \"surah_number_format\": \"2:255\",\n            \"relevance_score\": 10\n        },\n        {\n            \"surah_name_format\": \"Al-An'am:89\",\n            \"surah_number_format\": \"4:89\",\n            \"relevance_score\": 9\n        },\n        {\n            \"surah_name_format\": \"Al-Ma'idah:16\",\n            \"surah_number_format\": \"5:16\",\n            \"relevance_score\": 8\n        },\n        {\n            \"surah_name_format\": \"Al-Hujurat:11\",\n            \"surah_number_format\": \"49:11\",\n            \"relevance_score\": 7\n        },\n        {\n            \"surah_name_format\": \"Al-Tawbah:10\",\n            \"surah_number_format\": \"9:10\",\n            \"relevance_score\": 6\n        }\n    ]\n}",
+      "response_time": 14.337334871292114,
+      "timestamp": "2025-07-07T08:54:23.329004"
+    },
+    {
+      "question_id": 4,
+      "query": "What ayah serves as a critical reflection on the behavior of those who possess knowledge yet choose to mislead others?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:44",
+          "4:51"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "{\n    \"surah_name_format\": \"Al-Baqarah\",\n    \"surah_number_format\": \"2:255\",\n    \"relevance_score\": 8\n}",
+      "response_time": 14.450679779052734,
+      "timestamp": "2025-07-07T08:54:38.781365"
+    }
+  ]
+}

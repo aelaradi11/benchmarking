@@ -1,0 +1,20 @@
+#!/bin/bash
+
+export PATH="/home/local/QCRI/easgari/anaconda3/envs/llmlab/bin:$PATH"
+export HF_HOME=/fanar-image-understanding-01/hf_cache
+export TRITON_CACHE_DIR=/fanar-image-understanding-01/hf_cache
+export FORCE_TORCHRUN=1
+
+
+#export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+
+echo "=== Checking PyTorch GPU availability ==="
+python -c "import torch; print(torch.cuda.is_available(), torch.cuda.device_count())"
+
+# Specify which GPU(s) to use (comma-separated IDs, e.g., 0,1)
+GPUS="2,4,5,7"
+
+# Set the environment variable for CUDA
+export CUDA_VISIBLE_DEVICES=$GPUS
+
+python test_fanar.py

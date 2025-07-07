@@ -1,0 +1,1087 @@
+{
+  "model": "gemma",
+  "questions_completed": 30,
+  "timestamp": "2025-07-07T09:56:41.014571",
+  "results": [
+    {
+      "question_id": 0,
+      "query": "What ayah discusses those who were given a portion of the Scripture and choose error over guidance?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.2340841293334961,
+      "timestamp": "2025-07-07T09:56:06.037126"
+    },
+    {
+      "question_id": 1,
+      "query": "What ayah illustrates the behavior of those who possess a portion of the Scripture yet choose to pursue error instead?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19660425186157227,
+      "timestamp": "2025-07-07T09:56:07.235165"
+    },
+    {
+      "question_id": 2,
+      "query": "What ayah can help someone understand the motivations behind why certain individuals choose to mislead others despite having received divine guidance?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.18851494789123535,
+      "timestamp": "2025-07-07T09:56:08.425086"
+    },
+    {
+      "question_id": 3,
+      "query": "What ayah analyzes the motivations behind those who distort the truth and seek to mislead others?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19139647483825684,
+      "timestamp": "2025-07-07T09:56:09.617841"
+    },
+    {
+      "question_id": 4,
+      "query": "What ayah serves as a critical reflection on the behavior of those who possess knowledge yet choose to mislead others?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19026780128479004,
+      "timestamp": "2025-07-07T09:56:10.809505"
+    },
+    {
+      "question_id": 5,
+      "query": "What ayah discusses the hardening of hearts and the influence of Satan during the time of punishment?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1926569938659668,
+      "timestamp": "2025-07-07T09:56:12.007433"
+    },
+    {
+      "question_id": 6,
+      "query": "What ayah reflects on the consequences of not humbling oneself in the face of divine punishment?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.3571784496307373,
+      "timestamp": "2025-07-07T09:56:13.365976"
+    },
+    {
+      "question_id": 7,
+      "query": "What ayah illustrates the consequences of hardening one's heart in the face of divine punishment?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19628548622131348,
+      "timestamp": "2025-07-07T09:56:14.563600"
+    },
+    {
+      "question_id": 8,
+      "query": "What ayah analyzes the reasons behind the hardening of hearts in response to divine punishment?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.21344661712646484,
+      "timestamp": "2025-07-07T09:56:15.778423"
+    },
+    {
+      "question_id": 9,
+      "query": "What ayah critically examines the reasons behind the lack of humility in the face of divine punishment?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "6:43"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "6:43"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.18852686882019043,
+      "timestamp": "2025-07-07T09:56:16.968257"
+    },
+    {
+      "question_id": 10,
+      "query": "What ayah expresses the reliance on Allah and a plea not to be a trial for the wrongdoing people?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "60:5",
+        "10:85"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "60:5",
+          "10:85"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19467449188232422,
+      "timestamp": "2025-07-07T09:56:18.168063"
+    },
+    {
+      "question_id": 11,
+      "query": "What ayah expresses the reliance on Allah and the plea to not be a trial for the wrongdoing people?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "60:5",
+        "10:85"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "60:5",
+          "10:85"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19454574584960938,
+      "timestamp": "2025-07-07T09:56:19.363980"
+    },
+    {
+      "question_id": 12,
+      "query": "What ayah can be referenced when seeking guidance on relying on Allah during trials and asking for protection from being a test for the wrongdoers?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "60:5",
+        "10:85"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "60:5",
+          "10:85"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1939699649810791,
+      "timestamp": "2025-07-07T09:56:20.559313"
+    },
+    {
+      "question_id": 13,
+      "query": "What ayah analyzes the plea for divine protection from becoming a trial for the wrongdoers?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "60:5",
+        "10:85"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "60:5",
+          "10:85"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19462060928344727,
+      "timestamp": "2025-07-07T09:56:21.755276"
+    },
+    {
+      "question_id": 14,
+      "query": "What ayah serves as a critical reflection on reliance upon Allah and the plea to avoid being a trial for the wrongdoers?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "60:5",
+        "10:85"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "60:5",
+          "10:85"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19768166542053223,
+      "timestamp": "2025-07-07T09:56:22.954273"
+    },
+    {
+      "question_id": 15,
+      "query": "What ayah describes the reaction of disbelievers upon witnessing a fragment falling from the sky?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "52:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "52:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.18919110298156738,
+      "timestamp": "2025-07-07T09:56:24.148675"
+    },
+    {
+      "question_id": 16,
+      "query": "What ayah illustrates the reaction of disbelievers when faced with a sign from the sky?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "52:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "52:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19297075271606445,
+      "timestamp": "2025-07-07T09:56:25.343004"
+    },
+    {
+      "question_id": 17,
+      "query": "What ayah illustrates how people might dismiss a divine sign as merely a natural phenomenon?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "52:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "52:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1926126480102539,
+      "timestamp": "2025-07-07T09:56:26.536963"
+    },
+    {
+      "question_id": 18,
+      "query": "What ayah analyzes the response of disbelievers when confronted with a fragment from the sky?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "52:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "52:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19077849388122559,
+      "timestamp": "2025-07-07T09:56:27.729074"
+    },
+    {
+      "question_id": 19,
+      "query": "What ayah serves as the strongest evidence of how disbelief leads to misinterpretation of divine signs?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "52:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "52:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1884138584136963,
+      "timestamp": "2025-07-07T09:56:28.918809"
+    },
+    {
+      "question_id": 20,
+      "query": "What ayah contains the phrase 'And what can make you know what is 'illiyyun'?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "101:10",
+        "74:27",
+        "69:3",
+        "90:12",
+        "101:3",
+        "83:8",
+        "86:2",
+        "104:5",
+        "82:17",
+        "77:14",
+        "97:2",
+        "82:18",
+        "83:19"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 13,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "101:10",
+          "74:27",
+          "69:3",
+          "90:12",
+          "101:3",
+          "83:8",
+          "86:2",
+          "104:5",
+          "82:17",
+          "77:14",
+          "97:2",
+          "82:18",
+          "83:19"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19227933883666992,
+      "timestamp": "2025-07-07T09:56:30.116784"
+    },
+    {
+      "question_id": 21,
+      "query": "What ayah emphasizes the significance of 'illiyyun and invites reflection on its meaning?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "101:10",
+        "74:27",
+        "69:3",
+        "90:12",
+        "101:3",
+        "83:8",
+        "86:2",
+        "104:5",
+        "82:17",
+        "77:14",
+        "97:2",
+        "82:18",
+        "83:19"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 13,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "101:10",
+          "74:27",
+          "69:3",
+          "90:12",
+          "101:3",
+          "83:8",
+          "86:2",
+          "104:5",
+          "82:17",
+          "77:14",
+          "97:2",
+          "82:18",
+          "83:19"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.35042667388916016,
+      "timestamp": "2025-07-07T09:56:31.468539"
+    },
+    {
+      "question_id": 22,
+      "query": "What ayah can help someone understand the significance of 'illiyyun in the context of divine knowledge?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "101:10",
+        "74:27",
+        "69:3",
+        "90:12",
+        "101:3",
+        "83:8",
+        "86:2",
+        "104:5",
+        "82:17",
+        "77:14",
+        "97:2",
+        "82:18",
+        "83:19"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 13,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "101:10",
+          "74:27",
+          "69:3",
+          "90:12",
+          "101:3",
+          "83:8",
+          "86:2",
+          "104:5",
+          "82:17",
+          "77:14",
+          "97:2",
+          "82:18",
+          "83:19"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1894230842590332,
+      "timestamp": "2025-07-07T09:56:32.659292"
+    },
+    {
+      "question_id": 23,
+      "query": "What ayah analyzes the significance of 'illiyyun in relation to divine knowledge and awareness?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "101:10",
+        "74:27",
+        "69:3",
+        "90:12",
+        "101:3",
+        "83:8",
+        "86:2",
+        "104:5",
+        "82:17",
+        "77:14",
+        "97:2",
+        "82:18",
+        "83:19"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 13,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "101:10",
+          "74:27",
+          "69:3",
+          "90:12",
+          "101:3",
+          "83:8",
+          "86:2",
+          "104:5",
+          "82:17",
+          "77:14",
+          "97:2",
+          "82:18",
+          "83:19"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19251441955566406,
+      "timestamp": "2025-07-07T09:56:33.853193"
+    },
+    {
+      "question_id": 24,
+      "query": "What ayah serves as a critical reference for understanding the concept of 'illiyyun and its significance in the afterlife?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "101:10",
+        "74:27",
+        "69:3",
+        "90:12",
+        "101:3",
+        "83:8",
+        "86:2",
+        "104:5",
+        "82:17",
+        "77:14",
+        "97:2",
+        "82:18",
+        "83:19"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 13,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "101:10",
+          "74:27",
+          "69:3",
+          "90:12",
+          "101:3",
+          "83:8",
+          "86:2",
+          "104:5",
+          "82:17",
+          "77:14",
+          "97:2",
+          "82:18",
+          "83:19"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19072484970092773,
+      "timestamp": "2025-07-07T09:56:35.045305"
+    },
+    {
+      "question_id": 30,
+      "query": "What ayah describes the blessings of gardens and springs in the context of divine reward?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "44:52",
+        "26:147",
+        "26:57",
+        "51:15",
+        "15:45",
+        "44:25",
+        "26:134"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "44:52",
+          "26:147",
+          "26:57",
+          "51:15",
+          "15:45",
+          "44:25",
+          "26:134"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19458746910095215,
+      "timestamp": "2025-07-07T09:56:36.244958"
+    },
+    {
+      "question_id": 31,
+      "query": "What ayah describes the blessings of gardens and springs as part of divine rewards?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "44:52",
+        "26:147",
+        "26:57",
+        "51:15",
+        "15:45",
+        "44:25",
+        "26:134"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "44:52",
+          "26:147",
+          "26:57",
+          "51:15",
+          "15:45",
+          "44:25",
+          "26:134"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19016695022583008,
+      "timestamp": "2025-07-07T09:56:37.436477"
+    },
+    {
+      "question_id": 32,
+      "query": "What ayah can be referenced to understand the rewards of gardens and springs in the afterlife?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "44:52",
+        "26:147",
+        "26:57",
+        "51:15",
+        "15:45",
+        "44:25",
+        "26:134"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "44:52",
+          "26:147",
+          "26:57",
+          "51:15",
+          "15:45",
+          "44:25",
+          "26:134"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19129085540771484,
+      "timestamp": "2025-07-07T09:56:38.629103"
+    },
+    {
+      "question_id": 33,
+      "query": "What ayah analyzes the connection between divine blessings and the imagery of gardens and springs?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "44:52",
+        "26:147",
+        "26:57",
+        "51:15",
+        "15:45",
+        "44:25",
+        "26:134"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "44:52",
+          "26:147",
+          "26:57",
+          "51:15",
+          "15:45",
+          "44:25",
+          "26:134"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.19263458251953125,
+      "timestamp": "2025-07-07T09:56:39.823224"
+    },
+    {
+      "question_id": 34,
+      "query": "What ayah serves as the strongest evidence of the blessings awaiting the righteous, specifically mentioning gardens and springs?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "44:52",
+        "26:147",
+        "26:57",
+        "51:15",
+        "15:45",
+        "44:25",
+        "26:134"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 7,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "44:52",
+          "26:147",
+          "26:57",
+          "51:15",
+          "15:45",
+          "44:25",
+          "26:134"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": null,
+      "response_time": 0.1899709701538086,
+      "timestamp": "2025-07-07T09:56:41.014554"
+    }
+  ]
+}

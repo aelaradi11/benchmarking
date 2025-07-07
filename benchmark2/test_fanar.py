@@ -849,7 +849,7 @@ class LLMBenchmark:
                 logging.info(f"  Running averages - F1: {current_avg_f1:.3f}, Precision: {current_avg_precision:.3f}, Recall: {current_avg_recall:.3f}")
             
             # Small delay between requests to prevent overheating
-            time.sleep(self.config['DELAY_BETWEEN_REQUESTS'])
+            #time.sleep(self.config['DELAY_BETWEEN_REQUESTS'])
         
         # Clear model from memory after completion
         self.clear_model_cache()

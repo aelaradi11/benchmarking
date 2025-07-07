@@ -1,0 +1,172 @@
+{
+  "model": "deepseek",
+  "questions_completed": 5,
+  "timestamp": "2025-07-07T10:15:20.042676",
+  "results": [
+    {
+      "question_id": 0,
+      "query": "What ayah discusses those who were given a portion of the Scripture and choose error over guidance?",
+      "bloom_level": "Remember",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "<details>\n          <summary>Answer</summary>\n\n          {\n          \"verses\": [\n            {\n              \"surah_name_format\": \"Al-Baqarah:255\",\n              \"surah_number_format\": \"2:255\",\n              \"relevance_score\": 10\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:113\",\n              \"surah_number_format\": \"7:113\",\n              \"relevance_score\": 9\n            }\n          ]\n          }\n          </details>\n\n        I will follow the provided format to present the answer. Here's the step-by-step reasoning:\n\n        1. **Understanding the Question:**\n           - The question asks for Quranic verses that discuss individuals who were given a portion of the Scripture and chose error over guidance.\n           - This implies looking for verses that describe people who were blessed with knowledge or guidance but instead chose to follow incorrect paths.\n\n2. **Identifying Relevant Surahs:**\n   - **Al-Baqarah (2:255):**\n     - This verse mentions that those who were given the Scripture and chose error over guidance are those who have been given the Book and yet have not been guided.\n     - It highlights the responsibility of those who have been blessed with knowledge or guidance to use it wisely.\n     - **Relevance Score: 10**\n\n   - **Al-A'raf (7:113):**\n     - This verse describes the people who were given the Scripture and yet did not follow the right path.\n     - It emphasizes the importance of following the guidance provided and the consequences of not doing so.\n     - **Relevance Score: 9**\n\n3. **Selecting Additional Relevant Verses:**\n   - **Al-Baqarah (2:142):**\n     - This verse mentions that those who were given the Scripture and yet did not follow the right path are those who have been given the Book and yet have not been guided.\n     - It reinforces the idea of responsibility and the consequences of not using guidance wisely.\n     - **Relevance Score: 8**\n\n   - **Al-A'raf (7:179):**\n     - This verse describes the people who were given the Scripture and yet did not follow the right path.\n     - It emphasizes the importance of following the guidance provided and the consequences of not doing so.\n     - **Relevance Score: 7**\n\n   - **Al-Baqarah (2:173):**\n     - This verse mentions that those who were given the Scripture and yet did not follow the right path are those who have been given the Book and yet have not been guided.\n     - It highlights the responsibility of those who have been blessed with knowledge or guidance to use it wisely.\n     - **Relevance Score: 6**\n\n4. **Finalizing the List:**\n   - The top 5 most relevant verses are:\n     1. **Al-Baqarah (2:255)**\n     2. **Al-A'raf (7:113)**\n     3. **Al-Baqarah (2:142)**\n     4. **Al-A'raf (7:179)**\n     5. **Al-Baqarah (2:173)**\n\n5. **Formatting the Answer:**\n   - The answer is presented in the required JSON format:\n     ```\n     {\n       \"verses\": [\n         {\n           \"surah_name_format\": \"Al-Baqarah:255\",\n           \"surah_number_format\": \"2:255\",\n           \"relevance_score\": 10\n         },\n         {\n           \"surah_name_format\": \"Al-A'raf:113\",\n           \"surah_number_format\": \"7:113\",\n           \"relevance_score\": 9\n         }\n       ]\n     }\n     ```\n     This format includes the Surah name and number in both formats, along with the relevance score, ordered from highest to lowest.\n\n**Final Answer:**\n\n{\n\"verses\": [\n{\n\"surah_name_format\": \"Al-Baqarah:255\",\n\"surah_number_format\": \"2:255\",\n\"relevance_score\": 10\n},\n{\n\"surah_name_format\": \"Al-A'raf:113\",\n\"surah_number_format\": \"7:113\",\n\"relevance_score\": 9\n}\n]\n}",
+      "response_time": 117.4839940071106,
+      "timestamp": "2025-07-07T10:14:04.585597"
+    },
+    {
+      "question_id": 1,
+      "query": "What ayah illustrates the behavior of those who possess a portion of the Scripture yet choose to pursue error instead?",
+      "bloom_level": "Understand",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "<details>\n          <summary>Answer</summary>\n\n          {\n          \"verses\": [\n            {\n              \"surah_name_format\": \"Al-Baqarah:255\",\n              \"surah_number_format\": \"2:255\",\n              \"relevance_score\": 10\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:113\",\n              \"surah_number_format\": \"7:113\",\n              \"relevance_score\": 9\n            },\n            {\n              \"surah_name_format\": \"Al-Ma'idah:44\",\n              \"surah_number_format\": \"5:44\",\n              \"relevance_score\": 8\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:142\",\n              \"surah_number_format\": \"2:142\",\n              \"relevance_score\": 7\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:179\",\n              \"surah_number_format\": \"7:179\",\n              \"relevance_score\": 6\n            }\n          ]\n          }\n        </details>\n\n        I will follow the provided format to present the answer. Here is the solution:\n\n        <div class=\"answer\">\n          <h2>Answer</h2>\n          <pre>\n          {\n          \"verses\": [\n            {\n              \"surah_name_format\": \"Al-Baqarah:255\",\n              \"surah_number_format\": \"2:255\",\n              \"relevance_score\": 10\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:113\",\n              \"surah_number_format\": \"7:113\",\n              \"relevance_score\": 9\n            },\n            {\n              \"surah_name_format\": \"Al-Ma'idah:44\",\n              \"surah_number_format\": \"5:44\",\n              \"relevance_score\": 8\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:142\",\n              \"surah_number_format\": \"2:142\",\n              \"relevance_score\": 7\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:179\",\n              \"surah_number_format\": \"7:179\",\n              \"relevance_score\": 6\n            }\n          ]\n          }\n          </pre>\n        </div>\n\n        <hr>\n\n        <h2>Explanation</h2>\n\n        The Quran contains several verses that address the behavior of those who possess a portion of the Scripture yet choose to pursue error instead. The following verses are relevant to this question:\n\n        1. **Al-Baqarah:255**\n           - **Surah Name Format:** Al-Baqarah:255\n           - **Surah Number Format:** 2:255\n           - **Relevance Score:** 10\n\n           This verse emphasizes the importance of adhering to the guidance of the Quran and the Prophet Muhammad (peace be upon him). It warns against the consequences of deviating from the right path.\n\n        2. **Al-A'raf:113**\n           - **Surah Name Format:** Al-A'raf:113\n           - **Surah Number Format:** 7:113\n           - **Relevance Score:** 9\n\n           This verse highlights the importance of seeking knowledge and guidance from the Quran and the Prophet Muhammad (peace be upon him). It cautions against the dangers of ignorance and the pursuit of error.\n\n        3. **Al-Ma'idah:44**\n           - **Surah Name Format:** Al-Ma'idah:44\n           - **Surah Number Format:** 5:44\n           - **Relevance Score:** 8\n\n           This verse emphasizes the importance of following the guidance of the Quran and the Prophet Muhammad (peace be upon him). It warns against the consequences of deviating from the right path.\n\n        4. **Al-Baqarah:142**\n           - **Surah Name Format:** Al-Baqarah:142\n           - **Surah Number Format:** 2:142\n           - **Relevance Score:** 7\n\n           This verse highlights the importance of seeking knowledge and guidance from the Quran and the Prophet Muhammad (peace be upon him). It cautions against the dangers of ignorance and the pursuit of error.\n\n        5. **Al-A'raf:179**\n           - **Surah Name Format:** Al-A'raf:179\n           - **Surah Number Format:** 7:179\n           - **Relevance Score:** 6\n\n           This verse emphasizes the importance of following the guidance of the Quran and the Prophet Muhammad (peace be upon him). It warns against the consequences of deviating from the right path.\n\n        These verses collectively emphasize the importance of adhering to the guidance of the Quran and the Prophet Muhammad (peace be upon",
+      "response_time": 17.517961025238037,
+      "timestamp": "2025-07-07T10:14:23.105786"
+    },
+    {
+      "question_id": 2,
+      "query": "What ayah can help someone understand the motivations behind why certain individuals choose to mislead others despite having received divine guidance?",
+      "bloom_level": "Apply",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "<details>\n          <summary>Answer</summary>\n\n          {\n          \"verses\": [\n            {\n              \"surah_name_format\": \"Al-Baqarah:255\",\n              \"surah_number_format\": \"2:255\",\n              \"relevance_score\": 10\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:113\",\n              \"surah_number_format\": \"7:113\",\n              \"relevance_score\": 9\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:256\",\n              \"surah_number_format\": \"2:256\",\n              \"relevance_score\": 8\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:114\",\n              \"surah_number_format\": \"7:114\",\n              \"relevance_score\": 7\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:257\",\n              \"surah_number_format\": \"2:257\",\n              \"relevance_score\": 6\n            }\n          ]\n          }\n        </details>\n\n        I will follow the provided format to present the answer. Here is the solution:\n\n        <div class=\"answer\">\n          <h2>Answer</h2>\n          <div class=\"boxed\">\n            {\n              \"verses\": [\n                {\n                  \"surah_name_format\": \"Al-Baqarah:255\",\n                  \"surah_number_format\": \"2:255\",\n                  \"relevance_score\": 10\n                },\n                {\n                  \"surah_name_format\": \"Al-A'raf:113\",\n                  \"surah_number_format\": \"7:113\",\n                  \"relevance_score\": 9\n                },\n                {\n                  \"surah_name_format\": \"Al-Baqarah:256\",\n                  \"surah_number_format\": \"2:256\",\n                  \"relevance_score\": 8\n                },\n                {\n                  \"surah_name_format\": \"Al-A'raf:114\",\n                  \"surah_number_format\": \"7:114\",\n                  \"relevance_score\": 7\n                },\n                {\n                  \"surah_name_format\": \"Al-Baqarah:257\",\n                  \"surah_number_format\": \"2:257\",\n                  \"relevance_score\": 6\n                }\n              ]\n            }\n          </div>\n        </div>\n\n        <hr>\n\n        <h2>Explanation</h2>\n\n        The Quran provides several verses that address the motivations behind why individuals choose to mislead others despite having received divine guidance. The following verses are relevant to this question:\n\n        1. **Al-Baqarah:255**\n           - \"And when it is said to them, 'Do not mix up truth with falsehood,' they say, 'We have been commanded to follow a religion, and we will not turn away from it.'\"\n           - This verse highlights the stubbornness of some individuals who refuse to accept guidance despite being commanded to follow the truth.\n\n        2. **Al-A'raf:113**\n           - \"And when they say, 'We have been guided,' they are not guided, and they are in darkness and confusion, lost from their path.\"\n           - This verse emphasizes that those who claim to be guided are actually lost and confused, indicating a lack of true understanding.\n\n        3. **Al-Baqarah:256**\n           - \"And when they say, 'We have been guided,' they are not guided, and they are in darkness and confusion, lost from their path.\"\n           - This verse is similar to Al-A'raf:113, reinforcing the idea that those who claim to be guided are actually misguided.\n\n        4. **Al-A'raf:114**\n           - \"And when they say, 'We have been guided,' they are not guided, and they are in darkness and confusion, lost from their path.\"\n           - This verse is another repetition of the idea that those who claim to be guided are actually lost.\n\n        5. **Al-Baqarah:257**\n           - \"And when they say, 'We have been guided,' they are not guided, and they are in darkness and confusion, lost from their path.\"\n           - This verse is another repetition of the same idea, emphasizing the confusion and loss of those who claim to be guided.\n\n        These verses collectively convey the message that those who claim to be guided are actually misguided, and their actions are driven by stubbornness and a refusal to accept the truth. The relevance scores are assigned based on the frequency and emphasis of this theme in the Quran.\n\n        <hr>\n\n        <h2>Conclusion</h2>\n\n        The Quran provides several verses that address the motivations behind why individuals choose to mislead others despite having received divine guidance. The most relevant verses are Al-Baqarah:255, Al-A'raf:113,",
+      "response_time": 17.44199848175049,
+      "timestamp": "2025-07-07T10:14:41.549915"
+    },
+    {
+      "question_id": 3,
+      "query": "What ayah analyzes the motivations behind those who distort the truth and seek to mislead others?",
+      "bloom_level": "Analyze",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "<details>\n          <summary>Answer</summary>\n\n{\n  \"verses\": [\n    {\n      \"surah_name_format\": \"Al-Baqarah:255\",\n      \"surah_number_format\": \"2:255\",\n      \"relevance_score\": 10\n    },\n    {\n      \"surah_name_format\": \"Al-A'raf:113\",\n      \"surah_number_format\": \"7:113\",\n      \"relevance_score\": 9\n    },\n    {\n      \"surah_name_format\": \"Al-Baqarah:255\",\n      \"surah_number_format\": \"2:255\",\n      \"relevance_score\": 8\n    },\n    {\n      \"surah_name_format\": \"Al-A'raf:113\",\n      \"surah_number_format\": \"7:113\",\n      \"relevance_score\": 8\n    },\n    {\n      \"surah_name_format\": \"Al-Baqarah:255\",\n      \"surah_number_format\": \"2:255\",\n      \"relevance_score\": 7\n    }\n  ]\n}\n</details>\n\nThe Quranic verses that best analyze the motivations behind those who distort the truth and seek to mislead others are:\n\n\\[\n\\boxed{\n  \\begin{align*}\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\end{align*}\n}\n\\]\n\n\\[\n\\boxed{\n  \\begin{align*}\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\end{align*}\n}\n\\]\n\n\\[\n\\boxed{\n  \\begin{align*}\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\end{align*}\n}\n\\]\n\n\\[\n\\boxed{\n  \\begin{align*}\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-A'raf (7:113):} & \\quad \\text{And they who distort the truth - it is not good for them.} \\\\\n  \\text{Surah Al-Baqarah (2:255):} & \\quad \\text{And they who distort the",
+      "response_time": 17.499008893966675,
+      "timestamp": "2025-07-07T10:15:00.050989"
+    },
+    {
+      "question_id": 4,
+      "query": "What ayah serves as a critical reflection on the behavior of those who possess knowledge yet choose to mislead others?",
+      "bloom_level": "Evaluate",
+      "ground_truth_verses": [
+        "3:23",
+        "4:51",
+        "4:44"
+      ],
+      "predicted_verses_name_format": [],
+      "predicted_verses_number_format": [],
+      "detailed_verse_predictions": [],
+      "similarity_metrics": {
+        "exact_matches": 0,
+        "total_predictions": 0,
+        "valid_predictions": 0,
+        "ground_truth_count": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "jaccard_similarity": 0.0,
+        "matched_verses": [],
+        "missed_verses": [
+          "3:23",
+          "4:51",
+          "4:44"
+        ],
+        "extra_verses": []
+      },
+      "llm_response": "<details>\n          <summary>Answer</summary>\n\n          {\n          \"verses\": [\n            {\n              \"surah_name_format\": \"Al-Baqarah:255\",\n              \"surah_number_format\": \"2:255\",\n              \"relevance_score\": 10\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:113\",\n              \"surah_number_format\": \"7:113\",\n              \"relevance_score\": 9\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:256\",\n              \"surah_number_format\": \"2:256\",\n              \"relevance_score\": 8\n            },\n            {\n              \"surah_name_format\": \"Al-A'raf:114\",\n              \"surah_number_format\": \"7:114\",\n              \"relevance_score\": 7\n            },\n            {\n              \"surah_name_format\": \"Al-Baqarah:257\",\n              \"surah_number_format\": \"2:257\",\n              \"relevance_score\": 6\n            }\n          ]\n          }\n        </details>\n\n        I will follow the provided format to present the answer. Here is the solution:\n\n        <div class=\"answer\">\n          <h3>Answer</h3>\n          <div class=\"boxed\">\n            {\n              \"verses\": [\n                {\n                  \"surah_name_format\": \"Al-Baqarah:255\",\n                  \"surah_number_format\": \"2:255\",\n                  \"relevance_score\": 10\n                },\n                {\n                  \"surah_name_format\": \"Al-A'raf:113\",\n                  \"surah_number_format\": \"7:113\",\n                  \"relevance_score\": 9\n                },\n                {\n                  \"surah_name_format\": \"Al-Baqarah:256\",\n                  \"surah_number_format\": \"2:256\",\n                  \"relevance_score\": 8\n                },\n                {\n                  \"surah_name_format\": \"Al-A'raf:114\",\n                  \"surah_number_format\": \"7:114\",\n                  \"relevance_score\": 7\n                },\n                {\n                  \"surah_name_format\": \"Al-Baqarah:257\",\n                  \"surah_number_format\": \"2:257\",\n                  \"relevance_score\": 6\n                }\n              ]\n            }\n          </div>\n        </div>\n\n        <hr>\n\n        <h2>Explanation</h2>\n\n        The Quran contains several verses that address the behavior of those who possess knowledge yet choose to mislead others. The following verses are relevant to this theme:\n\n        1. **Al-Baqarah:255**\n           - \"And when it is said to them, 'Do not spread confusion among the people,' they do not cease. They do not obey. They are in a state of disbelief. So We will destroy them with a terrible destruction.\" (Quran 2:255)\n           - This verse highlights the behavior of those who refuse to heed warnings and instead spread confusion and mislead others.\n\n        2. **Al-A'raf:113**\n           - \"And when it is said to them, 'Do not spread confusion among the people,' they do not cease. They do not obey. They are in a state of disbelief. So We will destroy them with a terrible destruction.\" (Quran 7:113)\n           - This verse is identical to Al-Baqarah:255, emphasizing the same point about the behavior of those who refuse to obey and spread confusion.\n\n        3. **Al-Baqarah:256**\n           - \"And when it is said to them, 'Do not spread confusion among the people,' they do not cease. They do not obey. They are in a state of disbelief. So We will destroy them with a terrible destruction.\" (Quran 2:256)\n           - This verse is another repetition of the same theme, emphasizing the consequences of their actions.\n\n        4. **Al-A'raf:114**\n           - \"And when it is said to them, 'Do not spread confusion among the people,' they do not cease. They do not obey. They are in a state of disbelief. So We will destroy them with a terrible destruction.\" (Quran 7:114)\n           - This verse is another repetition of the same theme, emphasizing the consequences of their actions.\n\n        5. **Al-Baqarah:257**\n           - \"And when it is said to them, 'Do not spread confusion among the people,' they do not cease. They do not obey. They are in a state of disbelief. So We will destroy them with a terrible destruction.\" (Quran 2:257)\n           - This verse is another repetition of the same theme, emphasizing the consequences of their actions.\n\n        These verses all convey the same message about the behavior of those who",
+      "response_time": 18.989591121673584,
+      "timestamp": "2025-07-07T10:15:20.042648"
+    }
+  ]
+}
